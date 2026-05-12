@@ -1,4 +1,4 @@
-# Module 10: Asynchronous Programming Reflection
+# Module 10: Asynchronous Programming (Timer) Reflection
 
 ## Experiment 1.2: Understanding how it works
 
